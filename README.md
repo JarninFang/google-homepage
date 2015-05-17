@@ -1,2 +1,2 @@
 # google-homepage
-README
+# Readme for the practice project in the_odin_project
